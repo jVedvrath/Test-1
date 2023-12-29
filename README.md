@@ -7,4 +7,6 @@ i have enrolled for data analyst course
 <br>
 completed with session2 
 <br>
-reopened session2
+reopened session 2
+<br>
+practised session 2
